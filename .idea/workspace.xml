@@ -1,0 +1,570 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2fa8f260-fd97-43d2-82b8-2675226b3b48" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Qichezhijia$run.coverage" NAME="run Coverage Results" MODIFIED="1556546548343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Qichezhijia$run__1_.coverage" NAME="run (1) Coverage Results" MODIFIED="1556529700265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../ScrapySplashTest" />
+    <SUITE FILE_PATH="coverage/Qichezhijia$__test.coverage" NAME="__test Coverage Results" MODIFIED="1556545360952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Qichezhijia/spiders" />
+    <SUITE FILE_PATH="coverage/Qichezhijia$taobao.coverage" NAME="taobao Coverage Results" MODIFIED="1556521486402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../ScrapySplashTest/scrapysplashtest/spiders" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Qichezhijia/spiders/qichezhijia.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="267">
+              <caret line="80" selection-start-line="80" selection-end-line="80" />
+              <folding>
+                <element signature="e#24#35#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/qichezhijia.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5">
+              <caret line="4173" column="74" selection-start-line="4173" selection-start-column="74" selection-end-line="4173" selection-end-column="74" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Qichezhijia/spiders/__test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="15" selection-start-column="15" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Qichezhijia/spiders/__test.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="562">
+              <caret line="9387" column="85" selection-start-line="9387" selection-start-column="85" selection-end-line="9387" selection-end-column="85" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/run.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="51" selection-start-line="2" selection-start-column="51" selection-end-line="2" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Qichezhijia/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="54" selection-start-line="54" selection-end-line="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Qichezhijia/pipelines.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Qichezhijia/middlewares.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1545">
+              <caret line="103" selection-start-line="103" selection-end-line="103" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Qichezhijia/items.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>downloaderMi</find>
+      <find>user</find>
+      <find>downloader</find>
+      <find>cookie</find>
+      <find>REDIre</find>
+      <find>(.*): (.*)</find>
+      <find>reques</find>
+      <find>choose-con mt-10</find>
+      <find>choose-dl</find>
+      <find>./d1</find>
+      <find>allcont border-b-solid</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>&quot;$1&quot;:&quot;$2&quot;,</replace>
+      <replace>./div</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="wenrunryu &lt;jiepeng_wk@126.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../ScrapySplashTest/run.py" />
+        <option value="$PROJECT_DIR$/../Jdphone/Jdphone/settings.py" />
+        <option value="$PROJECT_DIR$/../Jdphone/Jdphone/spiders/jdphone.py" />
+        <option value="$PROJECT_DIR$/../ScrapySplashTest/scrapysplashtest/middlewares.py" />
+        <option value="$PROJECT_DIR$/../ScrapySplashTest/__init__.py" />
+        <option value="$PROJECT_DIR$/../ScrapySplashTest/scrapysplashtest/spiders/taobao.py" />
+        <option value="$PROJECT_DIR$/../ScrapySplashTest/scrapysplashtest/settings.py" />
+        <option value="$PROJECT_DIR$/../taobao/taobao/spiders/taobao_.py" />
+        <option value="$PROJECT_DIR$/../taobao/taobao/settings.py" />
+        <option value="$PROJECT_DIR$/qichezhijia.html" />
+        <option value="$PROJECT_DIR$/../taobao/taobao/middlewares.py" />
+        <option value="$PROJECT_DIR$/Qichezhijia/spiders/test.py" />
+        <option value="$PROJECT_DIR$/Qichezhijia/spiders/__test.py" />
+        <option value="$PROJECT_DIR$/run.py" />
+        <option value="$PROJECT_DIR$/Qichezhijia/settings.py" />
+        <option value="$PROJECT_DIR$/Qichezhijia/spiders/qichezhijia.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="65" />
+    <option name="y" value="-4" />
+    <option name="width" value="1301" />
+    <option name="height" value="772" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Code style issuesJavaScript</id>
+          </State>
+          <State>
+            <id>CoffeeScript</id>
+          </State>
+          <State>
+            <id>Control flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Cucumber</id>
+          </State>
+          <State>
+            <id>DOM issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Data flowJavaScript</id>
+          </State>
+          <State>
+            <id>Django</id>
+          </State>
+          <State>
+            <id>Error handlingJavaScript</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>HTML</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript function metricsJavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript validity issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsJavaScript</id>
+          </State>
+          <State>
+            <id>Probable bugsCoffeeScript</id>
+          </State>
+          <State>
+            <id>Probable bugsJavaScript</id>
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+          <State>
+            <id>RegExp</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Qichezhijia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Qichezhijia" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Qichezhijia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Qichezhijia" type="462c0819:PsiDirectoryNode" />
+              <item name="Qichezhijia" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Qichezhijia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Qichezhijia" type="462c0819:PsiDirectoryNode" />
+              <item name="Qichezhijia" type="462c0819:PsiDirectoryNode" />
+              <item name="spiders" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ChangesTree.GroupingKeys" value="repository" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.run">
+    <configuration name="__test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Qichezhijia" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Qichezhijia/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Qichezhijia/spiders/__test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ScrapySplashTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../ScrapySplashTest" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../ScrapySplashTest/run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Qichezhijia" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="taobao" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ScrapySplashTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../ScrapySplashTest/scrapysplashtest/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../ScrapySplashTest/scrapysplashtest/spiders/taobao.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.__test" />
+      <item itemvalue="Python.run (1)" />
+      <item itemvalue="Python.run" />
+      <item itemvalue="Python.taobao" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.run" />
+        <item itemvalue="Python.__test" />
+        <item itemvalue="Python.run (1)" />
+        <item itemvalue="Python.taobao" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2fa8f260-fd97-43d2-82b8-2675226b3b48" name="Default Changelist" comment="" />
+      <created>1556500792023</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556500792023</updated>
+      <workItem from="1556551499092" duration="166000" />
+      <workItem from="1556551851610" duration="129000" />
+      <workItem from="1556552011859" duration="80000" />
+      <workItem from="1556552129750" duration="32000" />
+      <workItem from="1556552307987" duration="210000" />
+      <workItem from="1556554735136" duration="4730000" />
+    </task>
+    <task id="LOCAL-00001" summary="splash_test">
+      <created>1556558847006</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1556558847006</updated>
+    </task>
+    <task id="LOCAL-00002" summary="splash_test">
+      <created>1556559225853</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1556559225853</updated>
+    </task>
+    <task id="LOCAL-00003" summary="splash_test2">
+      <created>1556559527612</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1556559527612</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5347000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="65" y="-4" width="1301" height="772" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.15797915" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.32724506" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="4" weight="0.32876712" />
+      <window_info anchor="bottom" id="Docker" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="bottom" id="Find" order="7" weight="0.32876712" />
+      <window_info anchor="bottom" id="Run" order="8" visible="true" weight="0.33637747" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="12" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="SciView" order="2" />
+      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="splash_test" />
+    <MESSAGE value="splash_test2" />
+    <option name="LAST_COMMIT_MESSAGE" value="splash_test2" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Qichezhijia$run.coverage" NAME="run Coverage Results" MODIFIED="1556558678144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../ScrapySplashTest/.gitignore" />
+    <entry file="file://$PROJECT_DIR$/../Jdphone/2600240.html" />
+    <entry file="file://$PROJECT_DIR$/../Jdphone/Jdphone/spiders/jdphone.py" />
+    <entry file="file://$PROJECT_DIR$/../ScrapySplashTest/README.md" />
+    <entry file="file://$USER_HOME$/Documents/WeChat Files/wo549233836/FileStorage/File/2019-04/demo/scrapy+splash/scrapysplashtest/scrapysplashtest/spiders/shares.py" />
+    <entry file="file://$USER_HOME$/Anaconda/Lib/site-packages/scrapy_splash/request.py" />
+    <entry file="file://$USER_HOME$/Documents/WeChat Files/wo549233836/FileStorage/File/2019-04/demo/scrapy+splash/scrapysplashtest/README.md" />
+    <entry file="file://$PROJECT_DIR$/../ScrapySplashTest/scrapysplashtest/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/../ScrapySplashTest/run.py" />
+    <entry file="file://$PROJECT_DIR$/../ScrapySplashTest/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/../Jdphone/Jdphone/settings.py" />
+    <entry file="file://$USER_HOME$/Documents/WeChat Files/wo549233836/FileStorage/File/2019-04/demo/scrapy+splash/scrapysplashtest/scrapysplashtest/spiders/taobao.py" />
+    <entry file="file://$USER_HOME$/Documents/WeChat Files/wo549233836/FileStorage/File/2019-04/demo/代理池+模拟登录+scrapy/ScrapyProject/settings_2.py" />
+    <entry file="file://$USER_HOME$/Documents/WeChat Files/wo549233836/FileStorage/File/2019-04/demo/代理池+模拟登录+scrapy/ScrapyProject/spiders/company_1.py" />
+    <entry file="file://$USER_HOME$/Documents/WeChat Files/wo549233836/FileStorage/File/2019-04/demo/代理池+模拟登录+scrapy/ScrapyProject/spiders/dajiyuan.py" />
+    <entry file="file://$USER_HOME$/Documents/WeChat Files/wo549233836/FileStorage/File/2019-04/demo/代理池+模拟登录+scrapy/ScrapyProject/spiders/ForbiddenNet.py" />
+    <entry file="file://$USER_HOME$/Documents/WeChat Files/wo549233836/FileStorage/File/2019-04/demo/代理池+模拟登录+scrapy/ScrapyProject/spiders/InUSA.py" />
+    <entry file="file://$USER_HOME$/Documents/WeChat Files/wo549233836/FileStorage/File/2019-04/demo/代理池+模拟登录+scrapy/ScrapyProject/spiders/NYTimes.py" />
+    <entry file="file://$USER_HOME$/Documents/WeChat Files/wo549233836/FileStorage/File/2019-04/demo/代理池+模拟登录+scrapy/ScrapyProject/spiders/xinyusi.py" />
+    <entry file="file://$USER_HOME$/Documents/WeChat Files/wo549233836/FileStorage/File/2019-04/demo/代理池+模拟登录+scrapy/ScrapyProject/spiders/xintangren.py" />
+    <entry file="file://$USER_HOME$/Documents/WeChat Files/wo549233836/FileStorage/File/2019-04/demo/代理池+模拟登录+scrapy/ScrapyProject/spiders/tianya.py" />
+    <entry file="file://$USER_HOME$/Documents/WeChat Files/wo549233836/FileStorage/File/2019-04/demo/代理池+模拟登录+scrapy/ScrapyProject/spiders/qingsexiaoshuo_2.py" />
+    <entry file="file://$USER_HOME$/Documents/WeChat Files/wo549233836/FileStorage/File/2019-04/demo/代理池+模拟登录+scrapy/ScrapyProject/spiders/qingsexiaoshuo.py" />
+    <entry file="file://$USER_HOME$/Documents/WeChat Files/wo549233836/FileStorage/File/2019-04/demo/代理池+模拟登录+scrapy/ScrapyProject/spiders/ppt_doc_pdf.py" />
+    <entry file="file://$USER_HOME$/Documents/WeChat Files/wo549233836/FileStorage/File/2019-04/demo/代理池+模拟登录+scrapy/ScrapyProject/spiders/aboluo.py" />
+    <entry file="file://$USER_HOME$/Documents/WeChat Files/wo549233836/FileStorage/File/2019-04/demo/代理池+模拟登录+scrapy/ScrapyProject/spiders/aboluo_raise.py" />
+    <entry file="file://$USER_HOME$/Documents/WeChat Files/wo549233836/FileStorage/File/2019-04/demo/代理池+模拟登录+scrapy/ScrapyProject/main.py" />
+    <entry file="file://$USER_HOME$/Documents/WeChat Files/wo549233836/FileStorage/File/2019-04/demo/代理池+模拟登录+scrapy/ScrapyProject/middlewares.py" />
+    <entry file="file://$USER_HOME$/Documents/WeChat Files/wo549233836/FileStorage/File/2019-04/demo/代理池+模拟登录+scrapy/ScrapyProject/Mysqlpiplines.py" />
+    <entry file="file://$USER_HOME$/Documents/WeChat Files/wo549233836/FileStorage/File/2019-04/demo/代理池+模拟登录+scrapy/ScrapyProject/pipelines.py" />
+    <entry file="file://$USER_HOME$/Documents/WeChat Files/wo549233836/FileStorage/File/2019-04/demo/代理池+模拟登录+scrapy/ScrapyProject/settings.py" />
+    <entry file="file://$PROJECT_DIR$/../ScrapySplashTest/scrapysplashtest/settings.py" />
+    <entry file="file://$PROJECT_DIR$/../ScrapySplashTest/scrapysplashtest/pipelines.py" />
+    <entry file="file://$USER_HOME$/Documents/WeChat Files/wo549233836/FileStorage/File/2019-04/demo/代理池+模拟登录+scrapy/ScrapyProject/spiders/company.py" />
+    <entry file="file://$PROJECT_DIR$/../ScrapySplashTest/scrapysplashtest/middlewares.py" />
+    <entry file="file://$PROJECT_DIR$/../ScrapySplashTest/scrapysplashtest/items.py" />
+    <entry file="file://$PROJECT_DIR$/../taobao/taobao/spiders/taobao_.py" />
+    <entry file="file://$PROJECT_DIR$/../taobao/taobao/settings.py" />
+    <entry file="file://$USER_HOME$/Anaconda/Lib/site-packages/scrapy/http/request/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/../taobao/taobao/pipelines.py" />
+    <entry file="file://$PROJECT_DIR$/../taobao/taobao/middlewares.py" />
+    <entry file="file://$PROJECT_DIR$/../ScrapySplashTest/scrapysplashtest/spiders/taobao.py" />
+    <entry file="file://$PROJECT_DIR$/Qichezhijia/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Qichezhijia/middlewares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1545">
+          <caret line="103" selection-start-line="103" selection-end-line="103" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Qichezhijia/items.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Qichezhijia/spiders/__test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="15" selection-start-column="15" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="51" selection-start-line="2" selection-start-column="51" selection-end-line="2" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Qichezhijia/spiders/__test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="562">
+          <caret line="9387" column="85" selection-start-line="9387" selection-start-column="85" selection-end-line="9387" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Qichezhijia/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="54" selection-start-line="54" selection-end-line="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qichezhijia.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5">
+          <caret line="4173" column="74" selection-start-line="4173" selection-start-column="74" selection-end-line="4173" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Qichezhijia/spiders/qichezhijia.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="80" selection-start-line="80" selection-end-line="80" />
+          <folding>
+            <element signature="e#24#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
