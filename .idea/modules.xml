@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Jdphone/.idea/Jdphone.iml" filepath="$PROJECT_DIR$/../Jdphone/.idea/Jdphone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Qichezhijia.iml" filepath="$PROJECT_DIR$/.idea/Qichezhijia.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/ScrapySplashTest/.idea/ScrapySplashTest.iml" filepath="$USER_HOME$/PycharmProjects/ScrapySplashTest/.idea/ScrapySplashTest.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/WeChat Files/wo549233836/FileStorage/File/2019-04/demo/scrapy+splash/.idea/scrapy+splash.iml" filepath="$USER_HOME$/Documents/WeChat Files/wo549233836/FileStorage/File/2019-04/demo/scrapy+splash/.idea/scrapy+splash.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../taobao/.idea/taobao.iml" filepath="$PROJECT_DIR$/../taobao/.idea/taobao.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/WeChat Files/wo549233836/FileStorage/File/2019-04/demo/代理池+模拟登录+scrapy/.idea/代理池+模拟登录+scrapy.iml" filepath="$USER_HOME$/Documents/WeChat Files/wo549233836/FileStorage/File/2019-04/demo/代理池+模拟登录+scrapy/.idea/代理池+模拟登录+scrapy.iml" />
+    </modules>
+  </component>
+</project>
